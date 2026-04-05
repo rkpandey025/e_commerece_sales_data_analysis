@@ -80,8 +80,8 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
+<img width="1252" height="756" alt="image" src="https://github.com/user-attachments/assets/79381e29-2dc5-430e-930a-d81267042fb6" />
 
-> *(Add your Power BI dashboard screenshot here)*
 
 ---
 
